@@ -3,7 +3,7 @@
 #                           build an run docker image with servodroid map 
 # Author             :      Thibault MONTAUFRAY
 # Creation date      :      27/07/2016 (draft)
-# Version          :   0.0.2
+# Version            :   0.0.2
 # -----------------------------------------------------------------------------
 
 RUN echo 'Installation of minecraft server'
