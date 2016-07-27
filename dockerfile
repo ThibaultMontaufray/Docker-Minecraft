@@ -1,7 +1,7 @@
 # ------------------------------------------------------------------------------------------------------------------------
 # Description 	:	docker-minecraft (friend private world)
-#							build an run docker image with servodroid map 
-# Author			:	Thibault MONTAUFRAY
+#				build an run docker image with servodroid map 
+# Author		:	Thibault MONTAUFRAY
 # Creation date	:	27/07/2016 (draft)
 # -----------------------------------------------------------------------------
 
