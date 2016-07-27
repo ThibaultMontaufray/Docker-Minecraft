@@ -17,7 +17,7 @@ MAINTAINER thibault.montaufray
 ENV     EULA=true	
 ENV     VERSION=1.8.4
 ENV     DIFFICULTY=easy
-ENV     WHITELIST=JoolPanda;Wilkoala;Kydain;NKahn_;Taxicolor;Architecte_B;orthequine;Djahay;MEL12387;Mindus;SebastienDupont;AmosTrack
+ENV     WHITELIST=JoolPanda,Wilkoala,Kydain,NKahn_,Taxicolor,Architecte_B,orthequine,Djahay,MEL12387,Mindus,SebastienDupont,AmosTrack
 ENV     ICON=https://github.com/ThibaultMontaufray/Tools4Libraries/blob/master/ManagersDevComponents/servodroidIconColor.png
 ENV     MAX_PLAYER=15
 ENV     ANNOUNCE_PLAYER_ACHIEVEMENTS=true
